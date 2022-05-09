@@ -2,6 +2,6 @@
     "plugins": [
         "@babel/plugin-proposal-object-rest-spread",
         "@babel/plugin-transform-arrow-functions",
-        "@babel/plugin-transform-tem[late-literals"
+        "@babel/plugin-transform-template-literals"
     ]
 }
